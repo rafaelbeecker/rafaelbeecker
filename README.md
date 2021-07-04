@@ -3,16 +3,16 @@
 </h2>
 
 <p align="center">
-     <a href="mailto:realfabecker@gmail.com">
+     <a href="mailto:realfabecker@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" height="20"/>
      </a>
-     <a href="https://www.linkedin.com/in/rafaelbeecker/">
+     <a href="https://www.linkedin.com/in/rafaelbeecker/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>
      </a> 
-     <a href="https://www.twitter.com/rafaelbeecker/">
+     <a href="https://www.twitter.com/rafaelbeecker/" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" height="20"/>
      </a>
-     <a href="https://api.whatsapp.com/send?phone=5547988771357&text=Oi Rafael! Tubo bem? Muito legal seu perfil no GitHub">
+     <a href="https://api.whatsapp.com/send?phone=5547988771357&text=Oi Rafael! Tubo bem? Muito legal seu perfil no GitHub" target="_blank">
       <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" height="20"/>
      </a>
 </p>
