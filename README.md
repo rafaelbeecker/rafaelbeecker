@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Programador por vocação, apaixonado por desafios e por oportunidades de aprendizado
+  Gosto de Linux, Docker e Programação
 </p>
 
 
