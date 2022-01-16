@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Gosto de Linux, Docker e Programação
+  Sou um programador usuário de Linux e entusiasta de Docker
 </p>
 
 
